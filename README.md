@@ -10,8 +10,6 @@
 - GitHub Pages sites have a soft bandwidth limit of 100GB per month.
 - GitHub Pages sites have a soft limit of 10 builds per hour.
 
-![GitHub Logo](/images/logo.png)
-
 # 2. Creating a Github Pages site
 - Create a Github account: https://github.com/ 
 - Creating a repository for your site: In the upper-right corner of any page, use the + drop-down menu, and select New repository.
@@ -66,3 +64,5 @@ An existing repository under your own account has been forked successfully.
   - Add tasks to columns: There are a few ways to add your team’s to-dos to a column. Write notes on your tasks or search existing issues and pull requests, then add them as cards.
   - Share work: Each card has a unique URL, making it easy to share and discuss individual tasks with your team. If a note needs next steps, convert it into an issue from your project board.
   - See project activity: The activity view helps you keep track of everything happening in your team’s project and see exactly what‘s changed since the last time you looked.
+  
+  ![Example of Project Management](/images/4.png)
