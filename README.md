@@ -65,4 +65,4 @@ An existing repository under your own account has been forked successfully.
   - Share work: Each card has a unique URL, making it easy to share and discuss individual tasks with your team. If a note needs next steps, convert it into an issue from your project board.
   - See project activity: The activity view helps you keep track of everything happening in your team’s project and see exactly what‘s changed since the last time you looked.
   
-  ![Example of Project Management](/images/4.png)
+  ![Example of Project Management](/images/4.PNG)
