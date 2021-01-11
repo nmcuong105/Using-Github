@@ -72,3 +72,8 @@ An existing repository under your own account has been forked successfully.
   - See project activity: The activity view helps you keep track of everything happening in your team’s project and see exactly what‘s changed since the last time you looked.
   
   ![Example of Project Management](/images/4.PNG)
+
+# 8. Create a Readme.md
+
+README.md files are created using Markdown which you can use to format text and add images. Following the guide in the below link.
+https://guides.github.com/features/mastering-markdown/
