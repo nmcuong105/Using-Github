@@ -25,6 +25,8 @@
   - A new branch called feature branch is created 
   - The journey that feature goes through before it’s merged into main
 
+ ![Branch](/images/1.png)
+
 - To create a new branch on the GitHub website, 
   1. Go to your repository.
   2. Click the drop-down at the top of the file list that says branch: master.
@@ -53,9 +55,13 @@ c. Merge pull request:
   - Steps:
     - Go to Explore(on top of the page)  and search for public repositories.
     - Click “fork”. There is an example in the below:
+    
+     ![Fork](/images/2.png)
 
 Here, this “tangent” repository is already forked 27 times and it is under “google” account. When you click on “Fork”, it will take some time to fork the repository. Once done you will notice that the repository name is under your account.
 
+ ![Forked](/images/3.png)
+ 
 An existing repository under your own account has been forked successfully.
 
 # 7. Project management
